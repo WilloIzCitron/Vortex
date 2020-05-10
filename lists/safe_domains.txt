@@ -67,6 +67,8 @@ wikipedia.org
 amazon.com
 ebay.com
 etsy.com
+tokopedia.com
+shopee.com
 
 // Games
 steamcommunity.com
